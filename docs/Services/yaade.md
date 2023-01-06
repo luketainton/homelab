@@ -7,7 +7,7 @@
 |                 |                                                                                         |
 | --------------- | --------------------------------------------------------------------------------------- |
 | **URL**         | [https://yaade.tainton.uk](https://yaade.tainton.uk)                                    |
-| **Hosted On**   | [Synology NAS](/homelab/Servers/synology)                                               |
+| **Hosted On**   | [Synology NAS](/homelab/servers/synology)                                               |
 | **Monitored**   | :material-close:                                                                        |
 | **SSO Enabled** | :material-close: ([EsperoTech/yaade#42](https://github.com/EsperoTech/yaade/issues/42)) |
 
