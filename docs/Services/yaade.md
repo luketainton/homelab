@@ -15,10 +15,8 @@
 ## User Traffic Flow
 
 ``` mermaid
-sequenceDiagram
-  autonumber
-  User->>Reverse Proxy
-  Reverse Proxy->>Container
-  Container-->>Reverse Proxy
-  Reverse Proxy-->>User
+graph LR
+  A[User] --> B[Cloudflare];
+  B --> C[Reverse Proxy];
+  C --> D[Docker Container];
 ```
