@@ -1,3 +1,3 @@
-# Services
+# Services Overview
 
-- [Yaade](/homelab/Services/)
+- [Yaade](/homelab/Services/yaade)
